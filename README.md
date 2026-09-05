@@ -3,6 +3,13 @@
 ## Table of Contents
 1. [Terminal Basics](#1-Terminal-Basics)
 
+
+
+## Introduction
+This repository documents the Linux command line from the fundamentals to practical cybersecurity applications.
+The goal is not just to memorize commands, but to understand how the Linux terminal works, how commands interact with the filesystem, and how multiple commands can be combined to solve real-world problems.
+
+
 ## 1. Terminal Basics
 
 A hands-on reference covering the Linux command-line concepts and commands I have learned so far.
