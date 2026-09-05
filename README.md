@@ -3,7 +3,7 @@
 ## Table of Contents
 1. [Terminal Basics](#1-Terminal-Basics)
 
-## 1.Terminal Basics
+## 1. Terminal Basics
 
 A hands-on reference covering the Linux command-line concepts and commands I have learned so far.
 
