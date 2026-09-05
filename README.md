@@ -1,4 +1,4 @@
-# Linux Command Line — Fundamentals
+# Linux Command Line — Terminal Basics
 
 A hands-on reference covering the Linux command-line concepts and commands I have learned so far.
 
