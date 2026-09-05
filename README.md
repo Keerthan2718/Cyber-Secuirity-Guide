@@ -1,4 +1,9 @@
-# Linux Command Line — Terminal Basics
+# Linux Learning
+
+## Table of Contents
+1. [Terminal Basics](#1-Terminal-Basics)
+
+## 1.Terminal Basics
 
 A hands-on reference covering the Linux command-line concepts and commands I have learned so far.
 
@@ -6,7 +11,7 @@ The focus is on understanding what each command does, practicing it in the termi
 
 ---
 
-## 1. Terminal Basics
+## 1. Terminal basics
 
 The terminal provides a text-based interface for interacting with the operating system.
 
@@ -881,17 +886,3 @@ The larger lesson is that Linux commands are designed to be **combined**. Rather
 
 ---
 
-## Next Topics
-
-The next concepts to build on this foundation are:
-
-* More advanced `grep`
-* `find`
-* Input/output redirection in greater depth
-* Standard input, output, and error
-* More advanced pipelines
-* Command substitution
-* Environment variables
-* Permissions
-* Bash scripting
-* Linux commands used in security investigations
